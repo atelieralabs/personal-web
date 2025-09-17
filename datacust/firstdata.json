@@ -1,0 +1,98 @@
+{
+  "profiles": {
+    "andikadwiputra011001": {
+      "profile": {
+        "name": "Andika Dwiputra",
+        "title": "Mobile Flutter Developer",
+        "description": "Gen Z developer passionate about building impactful apps with Flutter and exploring AI-driven solutions.",
+        "profileImage": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "email": "andika@example.com",
+        "phone": "+62 812-3456-7890",
+        "location": "Bandung, Indonesia",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/andika",
+          "github": "https://github.com/andika",
+          "instagram": "https://instagram.com/andika",
+          "dribbble": "https://dribbble.com/andika"
+        },
+        "cvlink": "https://drive.google.com/uc?export=download&id=FILE_ID"
+      },
+      "skills": [
+        { "name": "Flutter", "level": 8 },
+        { "name": "Dart", "level": 7 },
+        { "name": "Firebase", "level": 6 },
+        { "name": "UI/UX Design", "level": 7 }
+      ],
+      "experiences": [
+        {
+          "role": "Head of Embedded Research Group",
+          "company": "Universitas Komputer Indonesia",
+          "period": "2020 - 2024",
+          "description": "Led research and development projects, participated in national competitions, and mentored junior members."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Carenotes",
+          "description": "AI-powered doctor-patient consultation recorder with transcription and summarization features.",
+          "tech": ["Flutter", "Flask", "BERT", "Firebase"],
+          "link": "https://github.com/andika/carenotes"
+        }
+      ],
+      "education": [
+        {
+          "school": "Universitas Komputer Indonesia",
+          "major": "Computer Systems",
+          "period": "2019 - 2024"
+        }
+      ]
+    },
+    "sarahwijaya110011": {
+      "profile": {
+        "name": "Sarah Wijaya",
+        "title": "UI/UX Designer",
+        "description": "Creative designer focused on crafting intuitive user experiences and beautiful interfaces.",
+        "profileImage": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "email": "sarah@example.com",
+        "phone": "+62 812-2222-3333",
+        "location": "Jakarta, Indonesia",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/sarahwijaya",
+          "github": "https://github.com/sarahwijaya",
+          "instagram": "https://instagram.com/sarahwijaya",
+          "dribbble": "https://dribbble.com/sarahwijaya"
+        },
+        "cvlink": "#"
+      },
+      "skills": [
+        { "name": "Figma", "level": 9 },
+        { "name": "Adobe XD", "level": 8 },
+        { "name": "Illustrator", "level": 7 },
+        { "name": "Prototyping", "level": 9 }
+      ],
+      "experiences": [
+        {
+          "role": "UI/UX Designer",
+          "company": "StartupX",
+          "period": "2021 - Present",
+          "description": "Designed mobile and web applications with user-centered design principles."
+        }
+      ],
+      "projects": [
+        {
+          "title": "TravelNow",
+          "description": "Mobile app to book and plan travels with an interactive map.",
+          "tech": ["Figma", "Flutter"],
+          "link": "https://dribbble.com/sarahwijaya/travelnow"
+        }
+      ],
+      "education": [
+        {
+          "school": "Institut Teknologi Bandung",
+          "major": "Visual Communication Design",
+          "period": "2017 - 2021"
+        }
+      ]
+    }
+  }
+}
