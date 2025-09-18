@@ -5,13 +5,13 @@ import { getAnalytics } from "firebase/analytics";
 
 // Konfigurasi Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDu3pMYk0_6mpbBGL0T6zK8tIJ1YoJwYXA",
-  authDomain: "portodatabase1.firebaseapp.com",
-  projectId: "portodatabase1",
-  storageBucket: "portodatabase1.firebasestorage.app",
-  messagingSenderId: "1080921608039",
-  appId: "1:1080921608039:web:6cd9782680c7feb60f69c2",
-  measurementId: "G-9MM7Z9NS3Q",
+  apiKey: "AIzaSyA5AQCAOy5GHEvuaXR1erah7JQPoayMIIo",
+  authDomain: "atelierawebporto.firebaseapp.com",
+  projectId: "atelierawebporto",
+  storageBucket: "atelierawebporto.firebasestorage.app",
+  messagingSenderId: "56627261876",
+  appId: "1:56627261876:web:7aea6d18bfeb20a430c2e1",
+  measurementId: "G-VNX8Y651H9"
 };
 
 // Inisialisasi Firebase
